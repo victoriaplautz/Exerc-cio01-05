@@ -1,2 +1,2 @@
-# Exerc-cio01-05
+# Exercecio01-05
 Atividade passada na aula.
